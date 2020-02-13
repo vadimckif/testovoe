@@ -1,0 +1,1 @@
+$('.qqq').on('click',function() {alert('yraaa');});
